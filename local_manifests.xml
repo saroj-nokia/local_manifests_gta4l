@@ -10,6 +10,7 @@
     <!-- Repos -->
     <!-- Device -->
     <project path="device/samsung/gta4l" name="android_device_samsung_gta4l" remote="saroj-nokia" revision="lineage-21" />
+    <project path="device/samsung/gta4l-common" name="android_device_samsung_gta4l-common" remote="saroj-nokia" revision="14.0" />
 
     <!-- Kernel -->
     <project path="kernel/samsung/gta4l" name="android_kernel_samsung_gta4l" remote="saroj-nokia" revision="14.0" />
