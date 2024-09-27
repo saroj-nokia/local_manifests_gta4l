@@ -3,20 +3,20 @@
 <!-- Generated using sounddrill31/actions_generate_local_manifests -->
 
     <!-- Remotes -->
-    <remote name="saroj-nokia" fetch="https://github.com/saroj-nokia" clone-depth="1" />
+    <remote name="xlightningxstar" fetch="https://github.com/saroj-nokia" clone-depth="1" />
 
     <!-- Removals -->
 
     <!-- Repos -->
     <!-- Device -->
-    <project path="device/samsung/gta4l" name="android_device_samsung_gta4l" remote="saroj-nokia" revision="lineage-21" />
-    <project path="device/samsung/gta4l-common" name="android_device_samsung_gta4l-common" remote="saroj-nokia" revision="14.0" />
+    <project path="device/samsung/gta4l" name="android_device_samsung_gta4l" remote="xlightningxstar" revision="lineage-21" />
+    <project path="device/samsung/gta4l-common" name="android_device_samsung_gta4l-common" remote="xlightningxstar" revision="14.0" />
 
     <!-- Kernel -->
-    <project path="kernel/samsung/gta4l" name="android_kernel_samsung_gta4l" remote="saroj-nokia" revision="14.0" />
+    <project path="kernel/samsung/gta4l" name="android_kernel_samsung_gta4l" remote="xlightningxstar" revision="14.0" />
 
     <!-- Vendor -->
-    <project path="vendor/samsung/gta4l" name="proprietary_vendor_samsung_gta4l" remote="saroj-nokia" revision="lineage-21" />
-    <project path="vendor/samsung/gta4l-common" name="android_vendor_samsung_gta4l-common" remote="saroj-nokia" revision="14.0" />
+    <project path="vendor/samsung/gta4l" name="proprietary_vendor_samsung_gta4l" remote="xlightningxstar" revision="lineage-21" />
+    <project path="vendor/samsung/gta4l-common" name="android_vendor_samsung_gta4l-common" remote="xlightningxstar" revision="14.0" />
 
 </manifest>
