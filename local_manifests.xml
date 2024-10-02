@@ -4,12 +4,13 @@
 
     <!-- Remotes -->
     <remote name="xlightningxstar" fetch="https://github.com/xlightningxstar" clone-depth="1" />
+    <remote name="saroj-nokia" fetch="https://github.com/saroj-nokia" clone-depth="1" />
 
     <!-- Removals -->
 
     <!-- Repos -->
     <!-- Device -->
-    <project path="device/samsung/gta4l" name="android_device_samsung_gta4l" remote="xlightningxstar" revision="vic" />
+    <project path="device/samsung/gta4l" name="android_device_samsung_gta4lgt" remote="saroj-nokia" revision="voltage-14" />
     <project path="device/samsung/gta4l-common" name="android_device_samsung_gta4l-common" remote="xlightningxstar" revision="vic" />
 
     <!-- Kernel -->
