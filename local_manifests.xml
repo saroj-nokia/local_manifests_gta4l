@@ -19,6 +19,6 @@
 
     <!-- Vendor -->
     <project path="vendor/samsung/gta4l" name="proprietary_vendor_samsung_gta4l" remote="CuriousNom" revision="lineage-21" />
-    <project path="vendor/samsung/gta4l-common" name="proprietary_vendor_samsung_gta4l-common" remote="CuriousNom" revision="lineage-21c" />
+    <project path="vendor/samsung/gta4l-common" name="proprietary_vendor_samsung_gta4l-common" remote="CuriousNom" revision="lineage-21" />
 
 </manifest>
