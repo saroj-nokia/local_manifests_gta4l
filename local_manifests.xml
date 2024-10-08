@@ -12,7 +12,7 @@
 
     <!-- Repos -->
     <!-- Device -->
-    <project path="device/samsung/gta4l" name="android_device_samsung_gta4lgt" remote="saroj-nokia" revision="voltage-14" />
+    <project path="device/samsung/gta4l" name="android_device_samsung_gta4lgt" remote="saroj-nokia" revision="crdroid-14" />
     <project path="device/samsung/gta4l-common" name="android_device_samsung_gta4l-common" remote="saroj-nokia" revision="lineage-21" />
 
     <!-- Kernel -->
